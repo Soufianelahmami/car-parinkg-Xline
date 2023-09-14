@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Whether you live in a bustling city or a suburban neighborhood, the hunt for a parking space can be a time-consuming and often frustrating experience",
+   "photo1":"https://iili.io/JH501K7.webp"},
+  {"desc2":"Enter Xline Car Parking Solutions, a cutting-edge technology that promises to revolutionize the way we park our vehicles","photo2":"https://iili.io/JH50lPS.webp"},
+  {"desc3":" In this article, we will explore the Xline Car Parking system, its features, benefits, and the impact it could have on the future of parking","photo3":"https://iili.io/JH50aol.webp"},
+  {"desc4":"Xline Car Parking is a state-of-the-art automated parking system designed to optimize space utilization, improve efficiency, and reduce the hassle of parking","photo4":"https://iili.io/JH50cV2.webp"},
+  {"desc5":"Unlike traditional parking lots where drivers spend valuable time circling for an empty space, Xline uses advanced technology to streamline the process","photo5":"https://iili.io/JH50El9.webp"},
+  {"descd":"Vehicle Drop-Off: When a driver arrives at the Xline parking facility, they pull into a designated drop-off area. There, they can leave their vehicle and proceed to an easily accessible terminal or smartphone app","photod":"https://iili.io/JH50GSe.webp"}
    ]
  
 }
